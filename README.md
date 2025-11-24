@@ -12,4 +12,11 @@ This is in no special order.
 - [musabcel](https://github.com/musabcel/android_rom_list)
 - [pixelzdevelopment](https://github.com/PixelzDevelopment/Custom-ROM-List)
 ## The list
-
+- [2by2 Project](https://project2by2.jp/)
+- [[A]dvanced [XP]erience [OS]](https://axpos.org/)
+- [AfterlifeOS](https://afterlifeos.com/)
+- [AICP](https://www.aicp-rom.com/)
+- [AlphaDroid](https://alphadroid-project.github.io/)
+- [BaikalOS](https://github.com/baikalos)
+- [BlissRoms](https://blissroms.org/)
+- [CalyxOS](https://calyxos.org/)
