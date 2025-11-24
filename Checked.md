@@ -1,4 +1,4 @@
-File of custom roms that I have checked but are not active.
+# List of inactive custom roms(mainly just for me to keep track)
 - [AIMROM](https://aimrom.github.io/)
 - [AlrightOS](https://github.com/AlrightAndroid-Brokenlab)
 - [AmogOS-Rom](https://github.com/AmogOS-Rom)
