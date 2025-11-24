@@ -1,3 +1,4 @@
+# Heavily WIP lot of checking so it takes a while
 # Awesome-CustomRoms
 This is a list of **active** custom roms based of other lists. This is not a list of gsis for that you should check a [list](https://github.com/TrebleDroid/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list) from TrebleDroid.
 ## What is considered active
@@ -11,7 +12,7 @@ This is in no special order.
 - [wshamroukh](https://github.com/wshamroukh/Android_Custom_Rom_List)
 - [musabcel](https://github.com/musabcel/android_rom_list)
 - [pixelzdevelopment](https://github.com/PixelzDevelopment/Custom-ROM-List)
-## The list
+## The list of active roms
 - [2by2 Project](https://project2by2.jp/)
 - [[A]dvanced [XP]erience [OS]](https://axpos.org/)
 - [AfterlifeOS](https://afterlifeos.com/)
